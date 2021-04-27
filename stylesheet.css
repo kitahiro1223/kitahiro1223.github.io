@@ -193,12 +193,8 @@ footer {
 }
 
 /* -------------------- CSSはここから追加していきましょう！ -------------------- */
-.fa-navicon:before, .fa-reorder:before, .fa-bars:before {
-  display: none !important;
-}
-
 .menu-btn {
-  display: none;
+  display: none !important;
 }
 
 .clear {
