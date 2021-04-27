@@ -142,7 +142,7 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  top: 44%;
+  top: 38%;
   width: 100%;
   color: white;
 }
@@ -193,10 +193,6 @@ footer {
 }
 
 /* -------------------- CSSはここから追加していきましょう！ -------------------- */
-.menu-btn {
-  display: none !important;
-}
-
 .clear {
   clear: left;
 }
