@@ -192,6 +192,11 @@ footer {
   padding-bottom: 20px;
 }
 
+/* -------------------- CSSはここから追加していきましょう！ -------------------- */
+.fa-navicon:before, .fa-reorder:before, .fa-bars:before {
+  content: none;
+}
+
 .menu-btn {
   display: none;
 }
