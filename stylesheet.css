@@ -194,7 +194,7 @@ footer {
 
 /* -------------------- CSSはここから追加していきましょう！ -------------------- */
 .fa-navicon:before, .fa-reorder:before, .fa-bars:before {
-  content: none;
+  content: none !important;
 }
 
 .menu-btn {
