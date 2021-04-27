@@ -77,6 +77,10 @@ a {
   margin-right: 5px;
 }
 
+.fa.fa-bars.menu-btn {
+    display: none;
+}
+
 header {
   height: 65px;
   width: 100%;
