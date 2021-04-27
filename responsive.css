@@ -1,8 +1,5 @@
 /* タブレット向けレイアウト */
 @media all and (max-width: 1000px) {
-  .menu-btn {
-    display: none;
-  }
   .top-wrapper h1 {
     font-size: 32px;
   }

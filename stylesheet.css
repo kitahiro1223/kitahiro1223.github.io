@@ -193,6 +193,10 @@ footer {
 }
 
 /* -------------------- CSSはここから追加していきましょう！ -------------------- */
+.menu-btn {
+  display: none;
+}
+
 .clear {
   clear: left;
 }
